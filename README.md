@@ -6,15 +6,15 @@ Riva is a suite of GPU-accelerated speech and language models developed by NVIDI
 
 ### a. Automatic Speech Recognition (ASR)
 
-**Purpose:** ASR is used to convert spoken language into text. In your project, you implemented ASR specifically to accurately transcribe the term "EMEA" (Europe, Middle East, and Africa), which can be challenging due to its abbreviation nature and pronunciation variability.
+**Purpose:** ASR is used to convert spoken language into text. In the project, I implemented ASR specifically to accurately transcribe the term "EMEA" (Europe, Middle East, and Africa), which can be challenging due to its abbreviation nature and pronunciation variability.
 
-**Customization:** You likely customized the ASR model to better recognize specific terms and phrases relevant to your use case. This can involve fine-tuning the model on relevant datasets or using custom lexicons and pronunciation dictionaries.
+**Customization:** I  customized the ASR model to better recognize specific terms and phrases relevant to  use case. This can involve fine-tuning the model on relevant datasets or using custom lexicons and pronunciation dictionaries.
 
 ### b. Text-to-Speech (TTS)
 
 **Purpose:** TTS converts text into spoken language, enabling the Virtual Assistant to communicate verbally with users.
 
-**Customization:** You customized the TTS to produce natural and intelligible speech responses. This can include adjusting the voice characteristics (such as tone, speed, and intonation) to suit the desired user experience.
+**Customization:** I customized the TTS to produce natural and intelligible speech responses. This can include adjusting the voice characteristics (such as tone, speed, and intonation) to suit the desired user experience.
 
 ## 2. Question Answering (QA) Capabilities
 
